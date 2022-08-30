@@ -1,0 +1,22 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waqas80/testnode.git"
+  },
+  "author": "Waqas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waqas80/testnode/issues"
+  },
+  "homepage": "https://github.com/waqas80/testnode#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
